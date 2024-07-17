@@ -1,3 +1,9 @@
+@media screen and (max-width: 1200px) {
+    .container {
+        width: 100%;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .container {
         max-width: 770px;
@@ -27,14 +33,19 @@
 
     .why-us h2 {
         padding-top: 2.5rem;
+        font-size: 3rem;
     }
 
     .steps .col {
-        width: 300px;
+        width: 320px;
     }
 
     .why-us .col-left {
         width: 80%;
+    }
+
+    .lessons .col {
+        width: 60%;
     }
 
 }
