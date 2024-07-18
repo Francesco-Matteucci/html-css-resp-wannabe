@@ -36,16 +36,8 @@
         font-size: 3rem;
     }
 
-    .steps .col {
-        width: 320px;
-    }
-
-    .why-us .col-left {
-        width: 80%;
-    }
-
-    .lessons .col {
-        width: 60%;
+    .row .col {
+        width: 100%;
     }
 
 }
